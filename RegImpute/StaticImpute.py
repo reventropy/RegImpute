@@ -9,7 +9,8 @@ from sklearn.metrics import mean_squared_error
 
 
 '''
-Regression based imputation for Python.      
+Regression based imputation for Python.  
+Author: Jeremy R. Jacobsen    
 '''
 
 class StaticImpute:
